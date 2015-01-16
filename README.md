@@ -1,0 +1,2 @@
+# Alertssenger
+Jquery alert plugin
